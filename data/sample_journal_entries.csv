@@ -1,0 +1,91 @@
+date,transaction_id,account_code,account_name,debit,credit,description,auditor_id
+2026-01-03,TXN001,1000,Cash,15000.00,0.00,Payment received from client Alpha,AUD01
+2026-01-03,TXN001,4000,Revenue,0.00,15000.00,Payment received from client Alpha,AUD01
+2026-01-05,TXN002,1200,Accounts Receivable,8450.75,0.00,Invoice #2201 issued to Beta Corp,AUD02
+2026-01-05,TXN002,4000,Revenue,0.00,8450.75,Invoice #2201 issued to Beta Corp,AUD02
+2026-01-07,TXN003,6000,Operating Expenses,3200.00,0.00,Office supplies procurement,AUD01
+2026-01-07,TXN003,2000,Accounts Payable,0.00,3200.00,Office supplies procurement,AUD01
+2026-01-08,TXN004,1000,Cash,10000.00,0.00,Round number cash deposit,AUD03
+2026-01-08,TXN004,1200,Accounts Receivable,0.00,10000.00,Round number cash deposit,AUD03
+2026-01-10,TXN005,6100,Salaries Expense,45000.00,0.00,January payroll run,AUD02
+2026-01-10,TXN005,1000,Cash,0.00,45000.00,January payroll run,AUD02
+2026-01-12,TXN006,1000,Cash,5000.00,0.00,Round number client payment,AUD01
+2026-01-12,TXN006,4000,Revenue,0.00,5000.00,Round number client payment,AUD01
+2026-01-14,TXN007,1500,Prepaid Expenses,2100.50,0.00,Annual insurance premium,AUD03
+2026-01-14,TXN007,1000,Cash,0.00,2100.50,Annual insurance premium,AUD03
+2026-01-15,TXN008,6200,Utilities Expense,780.00,0.00,Electricity bill January,AUD02
+2026-01-15,TXN008,2000,Accounts Payable,0.00,780.00,Electricity bill January,AUD02
+2026-01-17,TXN009,1200,Accounts Receivable,50000.00,0.00,Large contract advance — Gamma Ltd,AUD01
+2026-01-17,TXN009,4000,Revenue,0.00,50000.00,Large contract advance — Gamma Ltd,AUD01
+2026-01-20,TXN010,3000,Equipment,12500.00,0.00,Server hardware purchase,AUD03
+2026-01-20,TXN010,2100,Long-term Payables,0.00,12500.00,Server hardware purchase,AUD03
+2026-01-22,TXN011,6000,Operating Expenses,950.25,0.00,,AUD02
+2026-01-22,TXN011,1000,Cash,0.00,950.25,,AUD02
+2026-01-24,TXN012,1000,Cash,20000.00,0.00,Round number intercompany transfer,AUD01
+2026-01-24,TXN012,2000,Accounts Payable,0.00,20000.00,Round number intercompany transfer,AUD01
+2026-01-27,TXN013,4100,Interest Income,0.00,325.50,Monthly bank interest earned,AUD03
+2026-01-27,TXN013,1000,Cash,325.50,0.00,Monthly bank interest earned,AUD03
+2026-01-29,TXN014,6300,Marketing Expense,4750.00,0.00,Q1 advertising campaign,AUD02
+2026-01-29,TXN014,2000,Accounts Payable,0.00,4750.00,Q1 advertising campaign,AUD02
+2026-01-31,TXN015,1200,Accounts Receivable,6800.00,0.00,Invoice #2202 to Delta Inc,AUD01
+2026-01-31,TXN015,4000,Revenue,0.00,6800.00,Invoice #2202 to Delta Inc,AUD01
+2026-02-03,TXN016,6000,Operating Expenses,1450.00,0.00,Travel and accommodation,AUD03
+2026-02-03,TXN016,1000,Cash,0.00,1450.00,Travel and accommodation,AUD03
+2026-02-05,TXN017,2000,Accounts Payable,8200.00,0.00,Vendor payment — Epsilon Supplies,AUD02
+2026-02-05,TXN017,1000,Cash,0.00,8200.00,Vendor payment — Epsilon Supplies,AUD02
+2026-02-07,TXN018,6100,Salaries Expense,45000.00,0.00,February payroll run,AUD01
+2026-02-07,TXN018,1000,Cash,0.00,45000.00,February payroll run,AUD01
+2026-02-10,TXN019,3000,Equipment,350000.00,0.00,Industrial machinery — outlier purchase,AUD03
+2026-02-10,TXN019,2100,Long-term Payables,0.00,350000.00,Industrial machinery — outlier purchase,AUD03
+2026-02-12,TXN020,1200,Accounts Receivable,9100.00,0.00,Invoice #2203 to Zeta Ltd,AUD02
+2026-02-12,TXN020,4000,Revenue,0.00,9100.00,Invoice #2203 to Zeta Ltd,AUD02
+2026-02-14,TXN021,6400,Depreciation Expense,2083.33,0.00,Monthly equipment depreciation,AUD01
+2026-02-14,TXN021,3100,Accumulated Depreciation,0.00,2083.33,Monthly equipment depreciation,AUD01
+2026-02-17,TXN022,1000,Cash,5000.00,0.00,Round number refund received,AUD03
+2026-02-17,TXN022,6500,Refunds & Adjustments,0.00,5000.00,Round number refund received,AUD03
+2026-02-19,TXN023,6200,Utilities Expense,820.00,0.00,,AUD02
+2026-02-19,TXN023,2000,Accounts Payable,0.00,820.00,,AUD02
+2026-02-21,TXN024,1200,Accounts Receivable,3650.00,0.00,Invoice #2204 to Alpha Corp,AUD01
+2026-02-21,TXN024,4000,Revenue,0.00,3650.00,Invoice #2204 to Alpha Corp,AUD01
+2026-02-24,TXN025,1000,Cash,17800.00,0.00,Collections received — multiple clients,AUD03
+2026-02-24,TXN025,1200,Accounts Receivable,0.00,17800.00,Collections received — multiple clients,AUD03
+2026-02-26,TXN026,6300,Marketing Expense,2200.00,0.00,Trade show sponsorship,AUD02
+2026-02-26,TXN026,2000,Accounts Payable,0.00,2200.00,Trade show sponsorship,AUD02
+2026-02-28,TXN027,6100,Salaries Expense,45000.00,0.00,February bonus payroll,AUD01
+2026-02-28,TXN027,1000,Cash,0.00,45000.00,February bonus payroll,AUD01
+2026-03-03,TXN028,1500,Prepaid Expenses,1800.00,0.00,Software licence renewal,AUD03
+2026-03-03,TXN028,1000,Cash,0.00,1800.00,Software licence renewal,AUD03
+2026-03-05,TXN029,6000,Operating Expenses,630.00,0.00,,AUD02
+2026-03-05,TXN029,2000,Accounts Payable,0.00,630.00,,AUD02
+2026-03-07,TXN001,1000,Cash,10000.00,0.00,Duplicate TXN001 — suspicious reentry,AUD01
+2026-03-07,TXN001,4000,Revenue,0.00,10000.00,Duplicate TXN001 — suspicious reentry,AUD01
+2026-03-09,TXN030,1200,Accounts Receivable,4250.00,0.00,Invoice #2205 to Theta Corp,AUD03
+2026-03-09,TXN030,4000,Revenue,0.00,4250.00,Invoice #2205 to Theta Corp,AUD03
+2026-03-11,TXN031,6400,Depreciation Expense,2083.33,0.00,March equipment depreciation,AUD01
+2026-03-11,TXN031,3100,Accumulated Depreciation,0.00,2083.33,March equipment depreciation,AUD01
+2026-03-13,TXN032,2000,Accounts Payable,5500.00,0.00,Partial payment to Iota Supplies,AUD02
+2026-03-13,TXN032,1000,Cash,0.00,5500.00,Partial payment to Iota Supplies,AUD02
+2026-03-15,TXN033,1000,Cash,400000.00,0.00,Very large cash inflow — outlier,AUD03
+2026-03-15,TXN033,4000,Revenue,0.00,400000.00,Very large cash inflow — outlier,AUD03
+2026-03-17,TXN034,6100,Salaries Expense,45000.00,0.00,March payroll run,AUD01
+2026-03-17,TXN034,1000,Cash,0.00,45000.00,March payroll run,AUD01
+2026-03-19,TXN035,6200,Utilities Expense,765.00,0.00,Gas bill March,AUD02
+2026-03-19,TXN035,2000,Accounts Payable,0.00,765.00,Gas bill March,AUD02
+2026-03-20,TXN036,1000,Cash,10000.00,0.00,Round number petty cash top-up,AUD03
+2026-03-20,TXN036,6600,Petty Cash Expense,0.00,10000.00,Round number petty cash top-up,AUD03
+2026-03-22,TXN037,1200,Accounts Receivable,7320.00,0.00,Invoice #2206 to Kappa Inc,AUD01
+2026-03-22,TXN037,4000,Revenue,0.00,7320.00,Invoice #2206 to Kappa Inc,AUD01
+2026-03-24,TXN002,1000,Cash,5000.00,0.00,Duplicate TXN002 — re-submitted entry,AUD02
+2026-03-24,TXN002,2000,Accounts Payable,0.00,5000.00,Duplicate TXN002 — re-submitted entry,AUD02
+2026-03-25,TXN038,6000,Operating Expenses,1125.00,0.00,Courier and logistics Q1,AUD03
+2026-03-25,TXN038,1000,Cash,0.00,1125.00,Courier and logistics Q1,AUD03
+2026-03-27,TXN039,6300,Marketing Expense,3400.00,0.00,,AUD01
+2026-03-27,TXN039,2000,Accounts Payable,0.00,3400.00,,AUD01
+2026-03-28,TXN040,1000,Cash,2800.00,0.00,Petty cash reimbursement,AUD02
+2026-03-28,TXN040,6000,Operating Expenses,0.00,2800.00,Petty cash reimbursement,AUD02
+2026-03-29,TXN041,4200,Other Income,0.00,1500.00,Equipment rental income,AUD03
+2026-03-29,TXN041,1000,Cash,1500.00,0.00,Equipment rental income,AUD03
+2026-03-30,TXN042,6100,Salaries Expense,2500.00,0.00,Contractor invoice — Lambda Consulting,AUD01
+2026-03-30,TXN042,2000,Accounts Payable,0.00,2500.00,Contractor invoice — Lambda Consulting,AUD01
+2026-03-31,TXN043,6400,Depreciation Expense,2083.33,0.00,Year-end depreciation adjustment,AUD02
+2026-03-31,TXN043,3100,Accumulated Depreciation,0.00,2083.33,Year-end depreciation adjustment,AUD02
